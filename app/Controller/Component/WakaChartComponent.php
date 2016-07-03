@@ -48,7 +48,8 @@ class WakaChartComponent extends Component {
         'scripting' => [
             'PHP',
             'JavaScript',
-            'Python'
+            'Python',
+            'Bash'
         ],
         'styles' => [
             'SCSS',
@@ -57,7 +58,8 @@ class WakaChartComponent extends Component {
         ],
         'data' => [
             'YAML',
-            'JSON'
+            'JSON',
+            'INI'
         ],
         'markup' => [
             'HTML',
